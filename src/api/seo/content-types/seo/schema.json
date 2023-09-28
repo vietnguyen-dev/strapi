@@ -4,7 +4,8 @@
   "info": {
     "singularName": "seo",
     "pluralName": "seos",
-    "displayName": "seo"
+    "displayName": "seo",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -27,6 +28,9 @@
       "type": "string"
     },
     "og_description": {
+      "type": "string"
+    },
+    "page": {
       "type": "string"
     }
   }
